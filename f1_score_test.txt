@@ -1,0 +1,3 @@
+----------Results----------
+Logistic Regression F1 Score on test dataset: 0.5625522927084354
+RandomForest F1 Score on test dataset: 0.5032086479066575
